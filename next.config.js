@@ -5,6 +5,8 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 })
 
 module.exports = withBundleAnalyzer({
+  target: 'serverless',
+  distDir: 'out',
   env: {
     rootNotionPageId: process.env.NOTION_PAGE_ID
   },
