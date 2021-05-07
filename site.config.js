@@ -7,19 +7,19 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
+  name: 'Neotion',
+  domain: 'neotion.it',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'Neotion',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'souljuse',
+  github: 'souljuse',
+  linkedin: 'irene_oppo',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
